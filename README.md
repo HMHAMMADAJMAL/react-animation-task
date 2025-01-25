@@ -27,4 +27,6 @@ This project includes a set of animations designed to evaluate my ability to imp
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/HMHAMMADAJMAL/react-animation-task
+   cd react-animation-task
+   
