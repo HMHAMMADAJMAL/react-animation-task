@@ -1,0 +1,7 @@
+.globe {
+    width: 200px;
+    height: 200px;
+    background: url('../assets/images/globe.png') no-repeat center/cover;
+    border-radius: 50%;
+    margin: 20px auto;
+  }

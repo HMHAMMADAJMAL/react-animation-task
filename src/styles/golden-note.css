@@ -1,0 +1,13 @@
+.golden-note {
+    font-size: 2rem;
+    color: gold;
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+    margin: 20px auto;
+  }
+  
+  .golden-note:hover {
+    transform: scale(1.2) rotate(15deg);
+    box-shadow: 0 0 10px gold;
+  }
+  

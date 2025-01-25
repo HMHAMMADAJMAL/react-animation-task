@@ -1,0 +1,18 @@
+.notes-container {
+    position: relative;
+    width: 200px; /* Adjust as per your layout */
+    height: 200px; /* Adjust as per your layout */
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .note {
+    position: absolute;
+    font-size: 2rem; /* Adjust size of the music notes */
+    opacity: 0; /* Initially hidden, revealed through animation */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ff69b4; /* Vibrant color for the music notes */
+  }
+  

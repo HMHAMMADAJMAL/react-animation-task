@@ -1,0 +1,12 @@
+.slider-container {
+    overflow: hidden;
+    width: 300px;
+    margin: 20px auto;
+  }
+  
+  .text-slider {
+    white-space: nowrap;
+    font-size: 1.5rem;
+    animation: sliding 10s linear infinite;
+  }
+  

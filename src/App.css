@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+}
+
+.music-notes {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
